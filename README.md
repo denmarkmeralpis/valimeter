@@ -1,5 +1,5 @@
 # Valimeter
-A Ruby-on-Rails plugin for validating ActionController parameter values.
+A Ruby-on-Rails plugin for validating ActionController parameter values. (WIP)
 
 ## Installation
 
